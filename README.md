@@ -1,4 +1,7 @@
 # Testimonials grid section
-Testimonials grid section - frontend mentor challenge
+##  [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
-![_D__Web%20Development__my%20project_Main%20projects_Frontend%20mentor%20-%20Testimonials%20grid%20section_index html](https://user-images.githubusercontent.com/95019708/169885826-bb76122c-640a-49b1-9ee4-923987a0783e.png)
+### Responsive Hero Section Using HTML CSS & JavaScript.
+
+- Developed first for Desktop then for Mobile devices.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
